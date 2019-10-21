@@ -1,0 +1,15 @@
+.album-list {
+
+    &--items {
+        list-style-type: none;
+        padding-bottom: 10px;
+    }
+
+    &--title {
+        height: 120px;;
+    }
+
+    &--button {
+        margin-top: 10px;
+    }
+}
